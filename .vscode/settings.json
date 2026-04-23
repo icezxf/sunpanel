@@ -1,0 +1,11 @@
+{
+  "name": "SunPanel Cloudflare",
+  "settings": {
+    "tailwindCSS.includeLanguages": {
+      "vue-html": "html"
+    },
+    "tailwindCSS.experimental.classRegex": [
+      ["className=\"([^\"]*)"]
+    ]
+  }
+}
